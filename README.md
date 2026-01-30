@@ -50,3 +50,11 @@ map_to_dxf_tool/
 ├── output/                       # 输出目录：拼图、pgw、dxf 都放这里
 │
 └── requirements.txt              # pip 依赖
+
+## how to use good AutoCAD
+- GEOGRAPHICLOCATION/GEO - bing
+- input location name / enter
+- choose a coordinate system (ITM
+- GEOMAPIMAGE get the view point
+- close whole map: GEOMAP/ Off
+- 
