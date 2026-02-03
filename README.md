@@ -54,6 +54,3 @@ map_to_dxf_tool/
 ## how to use good AutoCAD
 案 A：使用 OpenStreetMap（OSM）或 ArcGIS（合法 & 免费）
 
-使用 MapTiler / Mapbox（有 API Key，商业允许）
-
-非常大的区域（几千张瓦片以上），请使用 商业镜像服务（例如 MapTiler、OpenMapTiles）
