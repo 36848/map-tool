@@ -52,9 +52,8 @@ map_to_dxf_tool/
 └── requirements.txt              # pip 依赖
 
 ## how to use good AutoCAD
-- GEOGRAPHICLOCATION/GEO - bing
-- input location name / enter
-- choose a coordinate system (ITM
-- GEOMAPIMAGE get the view point
-- close whole map: GEOMAP/ Off
-- 
+案 A：使用 OpenStreetMap（OSM）或 ArcGIS（合法 & 免费）
+
+使用 MapTiler / Mapbox（有 API Key，商业允许）
+
+非常大的区域（几千张瓦片以上），请使用 商业镜像服务（例如 MapTiler、OpenMapTiles）
